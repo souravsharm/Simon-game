@@ -24,21 +24,10 @@ function pattern(){
 }   
 function userTurn(sequence, lastColor){
     let gameSelectedColor = lastColor 
-    function userTurn(sequence, lastColor){
-    let gameSelectedColor = lastColor 
     $(document).on("click", (event) => {
         console.log(event.target)
 
     })
-    
-    // let value = userClick.hasClass(gameSelectedColor)
-    // console.log(value)
-    // if() {
-    //     addingSound("wrong")
-    // }
-    // $(gameSelectedColor).click(pattern)
-
-}
     
     // let value = userClick.hasClass(gameSelectedColor)
     // console.log(value)
