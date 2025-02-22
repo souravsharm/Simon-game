@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 let array = ["red", "blue", "green", "yellow"]
 let hasStarted = false; 
 function nextSquence(){
@@ -59,7 +58,6 @@ function buttonAnimation(color){
     }, 10)
    
 }
-=======
 let buttonColours = ["red", "blue", "green", "yellow"]
 let gamePattern = []
 let userClickedPattern= []
@@ -139,4 +137,3 @@ function buttonSound() {
 
 
 buttonSound()
->>>>>>> ab8b704606fd58b1c217cdbc9289b8286a73bd5d
