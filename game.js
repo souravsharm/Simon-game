@@ -38,7 +38,7 @@ function animatePress(currentColour){
 }
 
 function startOver(){
-    level = 0
+    level = 1
     gamePattern =[]
     started = false
     userClickedPattern =[]
