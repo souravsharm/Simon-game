@@ -6,6 +6,7 @@ let level = 1
 let started = false
 
 
+
 const randomNumber = function nextSequence() {
     let Number = Math.floor(Math.random() * 4)
     randomChosenColour = buttonColours[Number]
